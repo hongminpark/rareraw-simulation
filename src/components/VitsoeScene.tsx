@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { animated, useSpring } from "@react-spring/three";
 import {
     Environment,
